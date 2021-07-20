@@ -1,0 +1,4 @@
+https://www.pcbway.com/project/shareproject/ESP_RFID___Access_Control_Board_with_ESP8266_and_RC522.html
+
+I used the hot fix release : https://github.com/esprfid/esp-rfid/releases/tag/1.3.3
+I use flash.bat -> option 4 -> it works
