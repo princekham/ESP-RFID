@@ -6,3 +6,12 @@ I use flash.bat -> option 4 -> it works
 for pin connections please refer to 
 https://github.com/esprfid/esp-rfid
 
+my wire connections
+
+3.3V - G
+Gnd - W/G
+SDA - W/O
+SCK - O
+MOSI - W/B
+MISO - B
+
